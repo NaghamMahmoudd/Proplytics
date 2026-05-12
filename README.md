@@ -97,19 +97,13 @@ Business Insights & Decision Support
 ```bash
 Proplytics/
 │
-├── Database/
-│   ├── ERD
-│   ├── Stored Procedures
-│   └── Backup Files
+├── Mapping/
+├── ERD/
+├── DataWarehouse/
 │
-├── ETL/
-│   └── SSIS Packages
-│
-├── Reports/
-│   └── SSRS Reports
-│
+├── SSIS/
+├── SSRS/
 ├── Dashboards/
-│   └── Power BI Files
 │
 ├── docs/
 │   └── images/
